@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">ViceMaps 3D</string>
-    <string name="search_placeholder">Search any city, street, or landmark worldwide…</string>
+    <string name="app_name">Terra 3D</string>
+    <string name="search_placeholder">Search any city, street, restaurant, or landmark worldwide…</string>
     <string name="locate_me">Locate Me</string>
 </resources>
