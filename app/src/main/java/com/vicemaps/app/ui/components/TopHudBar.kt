@@ -43,7 +43,7 @@ fun TopHudBar(
                 horizontalArrangement = Arrangement.spacedBy(6.dp)
             ) {
                 Text(
-                    text = "VICEMAPS",
+                    text = "TERRA",
                     fontSize = 12.sp,
                     color = TextPrimary,
                     style = MaterialTheme.typography.labelMedium
